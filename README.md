@@ -43,8 +43,3 @@ I am a **Software Developer & Systems Engineer** focused on creating efficient, 
 
 </div>
 
-<div align="center">
-
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kfajardoa&show_icons=true&theme=dark)
-
-</div>
