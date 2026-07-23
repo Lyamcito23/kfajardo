@@ -42,3 +42,9 @@ I am a **Software Developer & Systems Engineer** focused on creating efficient, 
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
 
 </div>
+
+<div align="center">
+
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kfajardoa&show_icons=true&theme=dark)
+
+</div>
