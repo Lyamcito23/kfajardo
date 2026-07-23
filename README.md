@@ -45,11 +45,14 @@ I am a **Software Developer & Systems Engineer** focused on creating efficient, 
 
 ---
 
+---
+
 ### 🟪 GitHub Stats
 
 <div align="center">
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kfajardoa&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfajardoa&layout=compact&theme=dark)
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kfajardoa&show_icons=true&theme=transparent&hide_border=true&title_color=a970ff&text_color=ffffff&icon_color=a970ff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfajardoa&layout=compact&theme=transparent&hide_border=true&title_color=a970ff&text_color=ffffff)
 
 </div>
